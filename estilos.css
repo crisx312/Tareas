@@ -1,0 +1,97 @@
+@charset "utf-8";
+.Contenedor_principal .Cabecera {
+    width: 100%;
+    height: 80px;
+    background-color: #8B52B7;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 30pt;
+    text-decoration: underline;
+    border-collapse: separate;
+    padding-top: 15px;
+    border-radius: 8px;
+}
+.Contenedor_principal .Menu {
+    width: 100%;
+    height: 40px;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-color: #5A2325;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20pt;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.Contenedor_principal .Menu_lateral {
+    width: 40%;
+    background-color: #5A24F4;
+    height: 300px;
+    margin-top: 5px;
+    border-radius: 6px;
+    text-align: center;
+    color: #FFFFFF;
+    float: left;
+    margin-bottom: 5px;
+}
+.Contenedor_principal .Publicacion {
+    width: 59%;
+    background-color: #4997B3;
+    float: right;
+    height: 300px;
+    border-radius: 5px;
+    margin: auto;
+    padding-top: 10px;
+}
+.Contenedor_principal .Publicacion .ARTICULO1 {
+    width: 95%;
+    height: 47px;
+    background-color: #5A7444;
+    color: #FFFFFF;
+    text-align: center;
+    margin: auto;
+    border-radius: 5px;
+}
+.Contenedor_principal .Publicacion .ARTICULO2 {
+    width: 40%;
+    background-color: #A2A2A2;
+    height: 219px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 0px;
+    margin-top: 15px;
+    margin-left: 19px;
+    border-radius: 5px;
+    float: left;
+}
+.Contenedor_principal .Publicacion .ARTICULO3 {
+    border-radius: 5px;
+    width: 40%;
+    height: 219px;
+    background-color: #BBA931;
+    color: #FDFDFD;
+    text-align: center;
+    float: right;
+    margin-top: 15px;
+    margin-right: 19px;
+}
+
+
+
+
+
+
+
+.Contenedor_principal .Pie_de_pagina {
+    width: 100%;
+    height: 60px;
+    background-color: #828282;
+    clear: both;
+    margin-top: 5px;
+    border-radius: 5px;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 21pt;
+}
